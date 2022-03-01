@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three moneths obseruations of the Low-countries, especially Holland Containing a brief description of the country, customes, religions, manners, and dispositions of the people.</title>
+            <author>Felltham, Owen, 1602?-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22906</idno>
+            <idno type="STC">Wing F658A</idno>
+            <idno type="EEBO-CITATION">99827042</idno>
+            <idno type="PROQUEST">99827042</idno>
+            <idno type="VID">207476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207476)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1884:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three moneths obseruations of the Low-countries, especially Holland Containing a brief description of the country, customes, religions, manners, and dispositions of the people.</title>
+                  <author>Felltham, Owen, 1602?-1668.</author>
+               </titleStmt>
+               <extent>[4], 7-30 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Owen Felltham.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Running title reads: A description of Holland.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207476:1" rendition="simple:additions"/>
+            <p>THREE MONETHS Obſeruations of the Low-Countries, Eſpecially HOLLAND. CONTAINING <hi>A brief Deſcription of the Country, Cuſtomes, Religions, Manners, and Diſpoſitions of the People.</hi>
+            </p>
+            <p>Printed <hi>Anno</hi> 1648.</p>
+            <pb facs="tcp:207476:2"/>
+            <pb facs="tcp:207476:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:207476:3"/>
+            <pb facs="tcp:207476:3"/>
+            <head>The PRINTER to the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough relations of thoſe Countries with whom we have had long and frequent Commerce, (which ſuppoſes us knowing of things either curious or needful) may be eſteemed ſuperfluous; yet for the better underſtanding of theſe short obſervations, it ſeems very neceſſary; for it is ſuppoſed they were intended by the Author (whom you will find ingenious) either to pleaſe himſelf, or delight the fancies of thoſe that are ac<g ref="char:EOLhyphen"/>quainted with the fashions of the Country.</p>
+            <pb facs="tcp:207476:4"/>
+            <p>He renders the Hollander an ingenuous ſubtle people, and if he be a little too free with them in their vices, 'tis pardonable; for when he obſerves their vertues, he endeavours to make requital.</p>
+            <p>To commend it were to detract; that were pity, for it is too little al<g ref="char:EOLhyphen"/>ready: but being ſo, you may with more eaſe try whether it deſerves it.</p>
+            <p>To make large preambles, were not onely to be unlike our Author, but to erect a great gate to a ſmal Cottage.</p>
+            <p>It was thought deſerving the Preſs; I have done my part, do you but yours; that is, peruſe it, and add it to thy Library.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="7" facs="tcp:207476:4"/>
+            <head>THREE MONETHS Obſervations of the Low-Coun<g ref="char:EOLhyphen"/>tries, eſpecially <hi>HOLLAND.</hi>
+            </head>
+            <p>THey are generally a Sea<g ref="char:EOLhyphen"/>land: there is not ſuch a ma<g ref="char:EOLhyphen"/>riſh in the world that is flat. They are an univerſal quag<g ref="char:EOLhyphen"/>mire; epitomiſed, a green-cheeſe in pickle: ſuch an Aequilibrian of earth and water, that a ſtrong earthquake would ſhake them into a Chaos: they are the ingredients of a black pudding, and want onely ſtirring, elſe you would have more bread then greets: then have you no way to make it ſerve for any thing, but to ſpread it under <hi>Zona Torrida,</hi> and ſo dry it for Turfes. It is an excellent
+<pb n="8" facs="tcp:207476:5"/>place for deſpairing lovers, for each corner affords them Willow; but if Juſtice ſhould condemn one to be hanged on any other Tree, he might live long and confident. It is the but tock of the world, full of veines and blood; but no bones. Had St <hi>Stephen</hi> been condemned there to be ſtoned, he might have lived ſtill; for (unleſs it be in their paved Townes) gold is more plentiful than ſtone. It is a ſingular place to fat monkies for there are ſpiders as bigg as ſhrimps, and (I think) as many. You may travel the Countrey without a guide, for you cannot go out of the rode without hazard of drowning. A King that hated crowding, might have run away without ſtaying for his Vſher, for he can go no whither but his way is made before him. Had they Cities as big as their walls, Rome were but a bauble to them. Twenty miles are nothing to be hurried over in one of
+<pb n="9" facs="tcp:207476:5"/>their waggons; where, if the Voer<g ref="char:EOLhyphen"/>man be ſober, you travel ſafe, But deſcending from thence, you muſt have better faith then <hi>Peter</hi> had, or you ſink immediately, if your way be not his: thus it hangs in the wa<g ref="char:EOLhyphen"/>ter, and at the approach of the wag<g ref="char:EOLhyphen"/>gon, it will ſhake as if it were ague<g ref="char:EOLhyphen"/>ſtricken. The Duke D' <hi>Alva</hi> taxing the tenth penny, frighted it into a Palſy, which all the Mountebanks it had bred and had, knew not how to cure. They do ſome things which ſeem wonders; for they fiſh for fire in the waters, which they catch in nets, and tranſport to land in their boats, where they ſpread it ſmooth, as a Mercer doth his Velvet when he rooks an Heir of eighteen. Thus be<g ref="char:EOLhyphen"/>ing in a meddow, you would ſuppoſe it a cantle of green-cheeſe, ſpread over with black butter. Their ordi<g ref="char:EOLhyphen"/>nary Pack-horſes are fram'd of wood, carrying their bridles in their tayles,
+<pb n="10" facs="tcp:207476:6"/>and their burdens in their bellies, and a ſtrong wind and ſtiffe gale are the ſpurs that make them ſpeedy. They dreſs their meat with <hi>aqua coeleſtis;</hi> for their water ſprings are not like ours, from the earth, but come to them as <hi>Manna</hi> to the Iſraelites, from heaven. the Elements here are at variance, the ſubtile overflow the groſſer, the fire conſuming the earth, and the ayr the waters; for they burn Turfs, and drain their grounds with Wind-mils, as if the Collick were a remedy for the Stone. The land they have is kept as neat as a Courtiers beard, and they have a method in mowing. It is ſo interveyned with waters and rivers, that it is impoſſible to make a Com<g ref="char:EOLhyphen"/>mon amongſt them. Even the Brow<g ref="char:EOLhyphen"/>niſts are here at a ſtand. The poor are never complained of for breaking of hedges; ſurely had the men of Go<g ref="char:EOLhyphen"/>tham lived here, they would have ſtudied ſome other priſon for the
+<pb n="11" facs="tcp:207476:6"/>Cuckow. Their ditches they frame as they liſt, and diſtinguiſh them in<g ref="char:EOLhyphen"/>to noecks, as my Lord Majors Cook doth his cuſtards: they clenſe them often, but it is as Phyſicians give their potions, more to catch the fiſh, then caſt out the mud. Though their coun<g ref="char:EOLhyphen"/>try be that of the main, yet every houſe ſtands as it were an Iland, and that (though a Boor dwell in it) looks as ſmug as a Lady new-painted. A gallants maſquing ſuit fits not more neatly than a thatcht cottage of many yeers wearing: if you finde it dry, it is embraced with vines, and if lower ſeated, it is onely a cloſe harbour within a plump of Willowes, and pleaſant enough, as long as the dog<g ref="char:EOLhyphen"/>daies laſt; but they overpaſt, you muſt practiſe wading or ſwimming; or remain priſoner till the Spring; onely a hard froſt with the help of ſledges, may releaſe you. The Bridge to this is an outlandiſh planck, with a box of
+<pb n="12" facs="tcp:207476:7"/>ſtones to poiſe it with, like a Quintin; which with the leaſt help, turns round like a Headſ-man, and when the maſter is over, ſtands drawn, and then he is in his Caſtle; 'tis ſure his fear that makes him ſuſpicious; there<g ref="char:EOLhyphen"/>fore that he may ſee who enters, his window is ever over his dore; But it may be to ſhew his Pedigree; for (though his Anceſtors were never known) their Armes are there, which in ſpite of the Herald, ſhall bear their atchievements with the helmet of a Baron at leaſt; marry the field per<g ref="char:EOLhyphen"/>haps ſhall be charged with baskets, to ſhew his Fathers trade pourtrayed. When you are entred, the firſt thing you ſhall encounter is a looking-glaſs, the next, the Veſſels marſhalld about the houſe like watchmen, all as near, as if they were in a Ladies Cabinet; for (unleſs it be themſelves) none of Gods creatures loſe any of their na<g ref="char:EOLhyphen"/>tive beauty there. Their houſes (eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="13" facs="tcp:207476:7"/>in the Cities) are the beſt eye-beauties in the Countrie, and in coſt and ſightlineſs, far exceed our En<g ref="char:EOLhyphen"/>gliſh, wanting onely their magni<g ref="char:EOLhyphen"/>ficence; Their lineing are richer too, than their out-ſides, not in hangings, but Pictures, which the pooreſt there are furniſhed with: Not a Sowter but hath his toies for ornament: were the knacks of all their houſes ſet together, there were not ſuch a Bartholomew-fayr in Europe. Their Artiſts (for theſe are as rare as thought) for they can paint a fat-Hen in her fe<g ref="char:EOLhyphen"/>thers, and if you want their lan<g ref="char:EOLhyphen"/>guage, you may learn a great deal on the Signe-poſts; what they are, they ever write under them; in that onely they deal plainly, and by this device, hang more honeſtie than they keep. Their rooms are but ſeveral hand-boxes, wherein you muſt either ſwallow your ſpittle, or bluſh when you ſee a Mopp
+<pb n="14" facs="tcp:207476:8"/>brought in. Their beds are no o<g ref="char:EOLhyphen"/>ther then Land-cabbins, high e<g ref="char:EOLhyphen"/>nough to need a Ladder or ſtairs; once up, you are walled in with wainſcot; and that is good diſcre<g ref="char:EOLhyphen"/>tion, to avoid the making wills every night, for once falling out, will break your neck perfectlie. But if you die in it, you leave your friends this comfort, that you died in clean linnen. Whatſoever their eſtates be, their linnen muſt be fine; therefore from Amſterdam they have baniſht Sea-coal; and leaſt it ſhould ſoil their buildings, of which the Statelier ſort are oft ſententious, and in their fronts carrie ſome conceit of the Author. Their houſes they keep cleaner than their bodies, and their bodies than their ſouls. Go to one, you ſhall finde the Andirons ſhut up in Network; at a ſecond, the warm<g ref="char:EOLhyphen"/>ing pan muffled up in Italian cut<g ref="char:EOLhyphen"/>work; at a third, the skimmer laid
+<pb n="15" facs="tcp:207476:8"/>in Cambrick. For their propenſion to Venery, 'tis true, their women are not ſo readie at a ſpurt; for neither are they ſo generally bred to it, nor are their men ſuch lin<g ref="char:EOLhyphen"/>nen lifters. Idleneſs and Courtſhip have not baniſhed honeſty thence. They tattle much, and do leſs, yet their blood runs high, and their veins are full, which argues ſtrength; and if the Court turn them Gal<g ref="char:EOLhyphen"/>lants, they will take up the cuſtom of entertaining Ladies: and ha<g ref="char:EOLhyphen"/>ving once done it, I believe they will be notable: for I have heard they trade more for love than money, but 'tis for the trick, not the man: and therefore when they like the labour, they will reward the work<g ref="char:EOLhyphen"/>man: otherwiſe their groſs feed<g ref="char:EOLhyphen"/>ing and clowniſh education hath ſpoyled them from being nobly minded. But I give you this on bare report, experience not having made me wiſe. They are generally boer<g ref="char:EOLhyphen"/>iſh,
+<pb n="16" facs="tcp:207476:9"/>yet may be bred Stateſmen, none of them being ſo nice of Con<g ref="char:EOLhyphen"/>ſcience, but they can turn out Reli<g ref="char:EOLhyphen"/>gion, to let in Policie. Their Coun<g ref="char:EOLhyphen"/>trie is their God they worſhip, war their heaven, peace their hel, and the croſſe Spanjard their Devil, Cuſtom is their Law, and Will their Rea<g ref="char:EOLhyphen"/>ſon: you may ſooner convert a Jew, than make an ordinary Dutchman yeild to arguments that croſs him. An old Fryer is ſooner turned Puri<g ref="char:EOLhyphen"/>tan, than a Waggoner perſwaded not to bait twice in nine miles. His ſoul is compos'd of Engliſh beer, and his body of pickled her<g ref="char:EOLhyphen"/>ring, which renders him coſtive and teſtie: theſe two with a little but<g ref="char:EOLhyphen"/>ter are the ingredients of a meer Dutchman, which a voyage to the Eaſt-Indies, by the heat of the Aequinoctial conſolidates. If you ſee him fat, he hath been cooped in a root-yard, and that hath blub<g ref="char:EOLhyphen"/>berd him. For their conditions, they
+<pb n="17" facs="tcp:207476:9"/>are churliſh, and (without doubt) very ancient: for they were bred before manners were in faſhion. They ſhould make good Juſtices, for they neither reſpect perſons nor apparel. A Boer in his butter-ſlopps ſhall be equally entertain'd with a Courtier in his bravery. They are ſeldom deceived, for they truſt no body; ſo by conſequence they are better to hold a Fort than win it, yet they can do both. Truſt them you muſt if you travel; for, to call for a bill to them, is to dive in<g ref="char:EOLhyphen"/>to a Waſps neſt. Complement is an idleneſs they were never trayn'd up in; and it is their happineſs that the Court hath not ſtoln away their minds: Their being Saylors and Souldiers, hath marr'd two parts al<g ref="char:EOLhyphen"/>ready; and if they be bathed once in Court-oyle, they are painted trap-dores, and ſhall ſuffer the Jews to build a City where Harlem-mere is, then coſen them of it. They
+<pb n="18" facs="tcp:207476:10"/>ſhall abuſe a ſtranger for nothing, and after a few baſe terms, ſcratch one another to a Carbonadoe, as they flea Rochetts. Nothing can quiet them but money and liberty, which having gotten, they abuſe both; but if you tell them ſo, you awake their fury; and you may ſooner calme the Sea, than conjure that into compaſſe again. They are all in a manner Aquatills, and therefore the Spanjards call them water-dogs. I agree not with them, yet I think they can catch a duck aſſoon. They love none but ſuch as do for them; and when their turne is ſerved, neglect them. They have no friends but their kinred, which meet at every wedding-feaſt, like Tribes among themſelves. All that help them not, they hold Po<g ref="char:EOLhyphen"/>piſh; and think it a piece of hone<g ref="char:EOLhyphen"/>ſtie to raile againſt the King of Spain. Their ſhipping is their Ba<g ref="char:EOLhyphen"/>bel they boaſt of, for the glory of
+<pb n="19" facs="tcp:207476:10"/>their Nation; it is (indeed) won<g ref="char:EOLhyphen"/>derful, and they will have it ſo. But, we may well hope, they will never be potent by Land, leſt they ſhew us how doggedlie they can in<g ref="char:EOLhyphen"/>ſult where they get the maſterie. Their Navies are the ſcourge of Spain, and pills wherewith they purge the Indies. Nature hath not bred them ſo active by Land as o<g ref="char:EOLhyphen"/>thers; but at Sea they are Water-Devills, and attempt things in<g ref="char:EOLhyphen"/>credible. Their Ships lie like high woods in winter; and if you view them on the North ſide, you will freeze: for they ride ſo thick, that through them you can ſee no Sun. Sailors with them, are as common as beggars with us. They can rail, ſwear, juggle, ſteal, and be lowſie alike; but to examine the reſt, a gleeke of their knaves are worth a mourmeval of ours. All of them are Sea-men born, and like Froggs can live on land or water. Not a
+<pb n="20" facs="tcp:207476:11"/>threſher amongſt them, but can handle an Oare, ſteer a Boat, raiſe a maſt, and ken you over the rougheſt paſſage. Their Govern<g ref="char:EOLhyphen"/>ment is Democratical, and there had need be many Rulers over ſuch a rabble of rude ones. Tell them of a King, and they will cut your throat in earneſt; the very Name imports ſervitude; they ſpite it more then a Jew doth Bacon, or a Wood-man, old-age. None among them hath any authoritie by inheritance; that were the way to parcell out the Countrie into Families. They are all choſen, as we chuſe Aldermen, more for their wealth than their wit, which they ſo over-affect, that mijn Heer ſhall paſs the ſtreet like an old Ape, with<g ref="char:EOLhyphen"/>out a tail after him; and if they may be had cheap, ſhall daube his faced gown with a ſtiver-worth of pickled herring, which himſelf ſhall carrie home in a ſtring. The common
+<pb n="21" facs="tcp:207476:11"/>voice hath given him pre-eminence, and he loathes it, living as when he was a Boer: but, if pardon be granted for what is paſt, they are about to think it time to learn more civilitie. Their Juſtice is ſtrickt, if it croſs not policie; but rather than hinder traſſique, they will to<g ref="char:EOLhyphen"/>lerate any thing. There is not ſuch a Denne of ſubtle Foxes as Amſterdam, there you may be what beaſt you pleaſe, ſo you puſh not the State with your horns. It is an Univerſitie of all opinions, which grow in it confuſedlie; as ſtocks in Norway, without order or pruning. If you be not ſetled in your Religion, you may there trie all, and at laſt take what you liſt. The Papiſts there muſt not Maſſe it publicklie, not becauſe it is moſt hated, but becauſe the Spaniard abridgeth the Proteſtant; and they had rather ſhew a little ſpleen, than not cry quittance with the Enemie:
+<pb n="22" facs="tcp:207476:12"/>This is their warrant, which they retaliate juſtlie; and for this rea<g ref="char:EOLhyphen"/>ſon, rather then the Dunkerks ſhall want hanging, Amſterdam, which hath none of her owne, will borrow a Hangman of Har<g ref="char:EOLhyphen"/>lem. In their Families they are all Equalls, and you have no way to finde the Maſter and Miſtris, unleſs it be in bed together; It may be thoſe are they, otherwiſe Maulkin will prate as much, laugh as loud, and fit on her tail as well as her Miſtris. Had Logicians li<g ref="char:EOLhyphen"/>ved there firſt, father and Son had not ſo long paſſed for Relatives, they are there whollie Individualls, for no demonſtrance of dutie or authoritie can diſtinguiſh them; as if they had been created toge<g ref="char:EOLhyphen"/>ther, and not ſucceſſivelie born: the Mother bidding her Daugh<g ref="char:EOLhyphen"/>ter good-night, and kiſſing her, is a punctual bleſſing. Your man ſhall be malepertlie ſaucie, and you
+<pb n="23" facs="tcp:207476:12"/>muſt not ſtrike him; if you do, he ſhall complain to the States, and have recompence. It is a dainty place to pleaſe boyes in, for the father will bargain with the ſchool<g ref="char:EOLhyphen"/>maſter not to whip him, if he do, he will revenge him with his knife, and have law for it. Their apparel is civil enough, and good enough, but very uncomely; uſually it hath more ſtuffe than ſhape: onely wo<g ref="char:EOLhyphen"/>mens Trinkets are commodious in winter, but 'tis pitty they have not the wit to leave them off when Sum<g ref="char:EOLhyphen"/>mer comes. Some of their women would have good faces, if they did not marre them in the making. Men and Women are ſtarched ſo blue, that when they grow old, you would verily think, you ſaw old winter ſtanding up to the neck in a barrel of blue ſtarch. The men are tolerably clad, unleſs they encline to the Sea-faſhion, and then their
+<pb n="24" facs="tcp:207476:13"/>ſlops yawn at the knees, as if they were about unmercifully to devour their ſhanks. They are far from go<g ref="char:EOLhyphen"/>ing naked; for, of a whole woman you can ſee but a piece of her face as for her hands, they ſhew her to be a ſhrewd labourer, which you ſhall alwaies finde, as it were in recom<g ref="char:EOLhyphen"/>pence, laden with rings, to the cracking of their fingers: and ſhe will rather want meat, than a Cart<g ref="char:EOLhyphen"/>rope of ſilver, hung with keyes. Their gownes are fit to hide great bellies; but they make them ſhow ſo un<g ref="char:EOLhyphen"/>handſome, that men do not care to get them. Marry this you ſhall ever finde to their commendations, their ſmocks are ever whiter then their skins, much cleaner, and far ſweet<g ref="char:EOLhyphen"/>er. They railat us for our various change of habit, but plead for their owne more earneſtly than lay-Ca<g ref="char:EOLhyphen"/>tholicks for their faith, which they reſolve to keep, becauſe their Ance<g ref="char:EOLhyphen"/>ſtors
+<pb n="25" facs="tcp:207476:13"/>lived and died in it. For their dyet, they eat much, and ſpend lit<g ref="char:EOLhyphen"/>tle; when they ſend out a fleet to the Eaſt-Indies, they live three moneths on the Offalis, which here would ſurfet a ſwine. In their hou<g ref="char:EOLhyphen"/>ſes, roots and ſtock-fiſh are ſtaple commodities. At their feaſts when they have fleſh, they have the art to keep it hot, as long as our fleet-lane cooks do incaſell'd Porke. To a Feaſt they come readily, but once ſet, you muſt have patience, for they are longer eating their meat, than we in dreſſing it: You conclude Supper betimes, if you get away by day-break. It is a piece of good manners (if there be any) to carry away a piece of Apple-pie in your pocket; their time they ſpend in eating well, drinking much, and prating moſt.</p>
+            <p>In this progreſs you have ſeen ſomwhat of their evids; now obſerve them. Solomon tells us of four
+<pb n="26" facs="tcp:207476:14"/>things very ſmall, but full of wiſ<g ref="char:EOLhyphen"/>dom; the Piſmire, the Conie, the Spider, and the Graſho per, and they are all for providence. They are the Piſmires of the world, who having nothing but what the graſs yeilds them, are (yet) for all proviſi<g ref="char:EOLhyphen"/>ons become the ſtore-houſe of Chri<g ref="char:EOLhyphen"/>ſtendom. They are frugal to the ſaving of Egg-ſhels, and maintain for a maxime, that many an old thing mended, will laſt longer than a new. Their Cities are their mole<g ref="char:EOLhyphen"/>hills, whence their ſhips and fly<g ref="char:EOLhyphen"/>boats creep and return, laden for winter with ſtore. For dwelling in rocks, they are Comes; where have you under heaven, ſuch im<g ref="char:EOLhyphen"/>pregnable Fortifications, where Art beautifies Nature, and Art makes Nature invincible? Indeed herein they differ; the Conies finde rocks, and they make them; and, as if they would invert Moſes mi<g ref="char:EOLhyphen"/>racles, they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aile them in the bo<g ref="char:EOLhyphen"/>ſome
+<pb n="27" facs="tcp:207476:14"/>of the waves of Bemſters land, where within theſe eighteen yeers; Ships furrowed the pathleſs Ocean, the peaceful plow embowells the fruitful earth. For war they are Graſhoppers; for they go out with<g ref="char:EOLhyphen"/>out Kings. There is not in Europe, ſuch a Schoole of martiall diſci<g ref="char:EOLhyphen"/>pline. For Induſtry, they are Spi<g ref="char:EOLhyphen"/>ders; and live in the Palaces of Kings: None have the like inteli<g ref="char:EOLhyphen"/>gence. Their marchants are this day the greateſt in the Univerſe. What Nation is it, where-into they have not inſinuated themſelves? nay, which they have not Anato<g ref="char:EOLhyphen"/>miz'd and diſcovered the intricate veins of it? All they doe, is with ſuch labour, as it ſeems to be extra<g ref="char:EOLhyphen"/>cted out of their own bowells: and by them we may learn, that no rain fructifies like the dew of ſweat. You would think (being with them) you were in old Iſrael; for there is not a beggar amongſt them: if he be
+<pb n="28" facs="tcp:207476:15"/>unable, he findes an Hoſpitall; if he would depart, hee ſhall have mony for his Convoy; if ſtay, he ſhall have work. And, leſt you ſhould <gap reason="blank" resp="#OXF" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> in fruitleſs mourning, their burials end by two of the clock. Even their Bed<g ref="char:EOLhyphen"/>lam is a place ſo curiouſly kept, that a Lord might live in it: Their Ho<g ref="char:EOLhyphen"/>ſpitall might lodge a Lady; their Bridewell a Gentlewoman, and their common priſon a rich Citi<g ref="char:EOLhyphen"/>zen: But, for a poore man, it is the beſt refuge; for, he that caſt him in, muſt keep him there. Even their dwelling is a miracle: for, they live lower than the very Fiſh in the Lap of their floods, and incirculed in their watery camps, they ſeem like the Iſraelites paſsing the Red Sea. Their Walls wall them in: and if they open their Sluces, they drownd their enemies. Againe, they are the Indian rats, gnawing the bowels of the Spanish Crocodiles, into which they got when they gaped to
+<pb n="29" facs="tcp:207476:15"/>ſwallow them: they are the Ser<g ref="char:EOLhyphen"/>pents, wrethed about the leggs of that Elephant his almoſt invincible innumerable Kingly titles, they are the Sword-fiſh under the Whale: they are the war of that great Em<g ref="char:EOLhyphen"/>pire which increaſed in Iſabella, and when Charles the fifth was at the full. They are the Glaſs wherein Kings may ſee, that nothing makes am ore deſparate rebellion, than Prerogatives too far urged; that op<g ref="char:EOLhyphen"/>preſſion is to heat an iron, till it burn your hand; that an extream taxation, is to ſteal away the honey, till the Bees leave the hive; that their own tyrannie is the greateſt enemie to their eſtate: that a deſire of being too abſolute, is to preſs a thorn that will prick you; that to debarr an Eſtate of ancient privi<g ref="char:EOLhyphen"/>ledges, is to make a ſtream more violent by ſtopping it; that unjuſt policie is to ſhoot (as they did at Oſtend) into the mouth of a charged
+<pb n="30" facs="tcp:207476:16" rendition="simple:additions"/>Canon, and to have two bullets re<g ref="char:EOLhyphen"/>turned for one; that admonitions of a dying man are too ſerious to be neglected.</p>
+            <p>To conclude, the Countrey it ſelf, is a moated Caſtle keeping two of the richeſt jewels in the world in it, the Queen of Bohemia, and the Princeſs of Orange. The people are all Jews of the New Teſtament and in fine have changed nothing but the Law for the Goſpel.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207476:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
